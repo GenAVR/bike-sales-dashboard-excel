@@ -58,7 +58,7 @@ This could potentially improve conversion rates and maximize revenue.
 
 ## Dashboard Interaction
 
-- <a href="[https://github.com/GenAVR/bike-sales-dashboard-excel/blob/main/Bike%20Sales%20Project.xlsx](https://github.com/GenAVR/bike-sales-dashboard-excel/blob/main/Bike%20Sales%20Dasboard.png)">Dashboard</a>
+- <a href="https://github.com/GenAVR/bike-sales-dashboard-excel/blob/main/Bike%20Sales%20Dasboard.png">Dashboard</a>
 
 ## Project File
 - <a href="https://github.com/GenAVR/bike-sales-dashboard-excel/blob/main/Bike%20Sales%20Project.xlsx">Bike Sales Project</a>
